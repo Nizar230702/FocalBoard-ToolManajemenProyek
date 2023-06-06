@@ -1,9 +1,11 @@
 # Focalboard-ToolManajemenProyek
 
-> Thomas Andrew I - 19081010165
+> Nizar Abdurrahman - 19081010025
 
 ## Tentang Focalboard
-Focalboard adalah *tool* manajemen proyek yang bersifat *open source* dapat dijadikan alternatif *tool* seperti Asana, Trello, dan notion. *Tool* ini sangat membantu manajemen proyek yang anda kerjakan dengan tim maupun *private*. Focalboard terdapat tiga edisi sebagai berikut :
+Focalboard adalah aplikasi open-source yang digunakan untuk mengorganisir ide, tugas, dan proyek secara visual. Ini adalah alat kolaboratif yang memungkinkan pengguna untuk membuat papan virtual dengan kotak-kotak yang berisi informasi yang relevan.
+
+Dalam Focalboard, pengguna dapat membuat kotak-kotak untuk catatan, daftar tugas, jadwal, dan konten lainnya. Mereka dapat menyesuaikan tata letak papan, menambahkan atau menghapus kotak, serta mengatur ulang kotak-kotak sesuai kebutuhan mereka. Focalboard menggunakan antarmuka yang intuitif dan seringkali didasarkan pada paradigma kanban, di mana pengguna dapat memindahkan kotak-kotak antara kolom-kolom yang mewakili status atau tahapan tertentu. *Tool* ini sangat membantu manajemen proyek yang anda kerjakan dengan tim maupun *private*. Focalboard terdapat tiga edisi sebagai berikut :
 
 ### 1. Mattermost Boards
 Terintegrasi dengan platform Mattermost untuk kolaborasi dan perencanaan proyek.
